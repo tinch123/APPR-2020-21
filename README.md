@@ -7,8 +7,20 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji od leta 2008 do 2017. Analizirala bom podjetja glede na gospodarske panonge in nato še glede na države nadzora (države iz katerih izvirajo), ter kako so se podjetja skozi leta spreminjala. Podatke o temi bom iskala na SURS
+
+Primerjala bom:
+
+-število tujih in domačih podjetij v Sloveniji,
+-prihodke od prodaje,
+-stroške dela med nacionalnimi in tujimi podjetji,
+-bruto investicije,
+-število zaposlenih.
+Cilj naloge je prikazati pomembnost tujih podjetij v Sloveniji v primerjavi z domačimi podjetji.
+
+Tabela 1 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na gospodarske panonge: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075810S.px/table/tableViewLayout2/
+
+Tabela 2 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na države izvora: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075820S.px/table/tableViewLayout2/
 
 ## Program
 
