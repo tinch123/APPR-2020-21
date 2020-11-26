@@ -12,15 +12,25 @@ V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji 
 Primerjala bom:
 
 -število tujih in domačih podjetij v Sloveniji,
+
 -prihodke od prodaje,
+
 -stroške dela med nacionalnimi in tujimi podjetji,
+
 -bruto investicije,
+
 -število zaposlenih.
+
 Cilj naloge je prikazati pomembnost tujih podjetij v Sloveniji v primerjavi z domačimi podjetji.
 
-Tabela 1 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na gospodarske panonge: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075810S.px/table/tableViewLayout2/
 
-Tabela 2 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na države izvora: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075820S.px/table/tableViewLayout2/
+Tabela 1 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na gospodarske panonge:
+
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075810S.px/table/tableViewLayout2/
+
+Tabela 2 - Poslovanje tujih in nacionalnih podjetij v Sloveniji glede na države izvora:
+
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075820S.px/table/tableViewLayout2/
 
 ## Program
 
